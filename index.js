@@ -16,7 +16,7 @@ const { create } = require('./labs')
 const arr1 = [ 3, 5, 7]
 const arr2 = [ 5, 6, 7]
 
-console.log([...arr1, ...arr2].unique().sort())
+//console.log([...arr1, ...arr2].unique().sort())
 
 // ;(async () => {
 //   try {
