@@ -1,0 +1,17 @@
+/.idea
+
+# .net core
+bin/
+obj/
+!scripts/**/bin/
+
+# javascript
+node_modules/
+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.
+
+.env
+*/.env
